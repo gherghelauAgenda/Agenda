@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/models/OwnerDetails.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/RegisterForm.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/models/AEvent.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/viewModels/AddPersonViewModel.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/AgendaForm.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/sql/DbConnect.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/MainForm.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/AddPersonForm.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/models/BaseModel.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/models/Owner.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/AddEventForm.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/RecoverPwdForm.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/models/Person.java</file>
+            <file>file:/C:/Users/Andrei/Documents/NetBeansProjects/Agenda/src/com/gherghelau/agenda/models/AEventPerson.java</file>
+        </group>
+    </open-files>
+</project-private>
